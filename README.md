@@ -3,7 +3,7 @@
 
 <h3 align="center">
 Computer science student from Algeria 🇩🇿 <br>
-Passionate about cybersecurity, programming, and building things that actually work.
+Passionate about Computers, programming, and building things that actually work.
 </h3>
 
 ---
