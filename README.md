@@ -1,5 +1,4 @@
 # justBabia
-```html
 <h1 align="center">Hey, I'm Abderrahmane 👋</h1>
 
 <h3 align="center">
@@ -22,7 +21,7 @@ Passionate about cybersecurity, programming, and building things that actually w
 ### 🌐 Connect With Me
 
 <p align="left">
-  <!-- Add your socials here later -->
+  abderrahmanekismoune@gmail.com
 </p>
 
 ---
